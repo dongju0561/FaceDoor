@@ -5,3 +5,6 @@ I recognize the problem and i made this program!!
 ### Overview
 If a visitor is the average normal body temperature, this program help to fill the entry list out in the database by recognizing faces and automatic door will be opend
 <br/>Otherwise, It'll keep the person out with warning tone
+
+https://user-images.githubusercontent.com/77201628/201934340-f91060b0-feb4-4148-83ad-e81f1768a2d5.mp4
+
